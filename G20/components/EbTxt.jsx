@@ -11,7 +11,7 @@ const EbTxt = () => {
         <div className={`flex flex-col rounded-[20px] w-auto h-auto md:w-auto md:h-auto items-center` }>
         <div className='flex-1 flex flex-col ml-3'> 
             <h1 className='font-formal font-semibold text-black text-[30px] leading -[23.4px] text-center'>
-               Executive Board Members
+               sdfkasklfalsdkm Board Members
             </h1>
         </div>    
         
